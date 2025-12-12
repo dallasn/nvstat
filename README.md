@@ -2,6 +2,8 @@
 
 A lightweight CLI tool for monitoring NVIDIA GPUs with ASCII bar charts and gauges. Similar to `nvtop` but simpler and runs entirely in the terminal with no external dependencies.
 
+![nvstat screenshot](nvstat.png)
+
 ![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -23,6 +25,8 @@ A lightweight CLI tool for monitoring NVIDIA GPUs with ASCII bar charts and gaug
 - **Zero dependencies** - Uses only Python standard library
 
 ## Requirements
+
+
 
 - Python 3.6+
 - NVIDIA GPU with drivers installed
